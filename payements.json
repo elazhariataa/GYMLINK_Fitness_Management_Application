@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "647118021f256af7db1078c0"
+  },
+  "id": "d1dcca50-fc04-11ed-924e-1b2443cfd8df",
+  "user_id": "d90c1cc0-f882-11ed-9581-b7a6b8d2c287",
+  "amount": 150,
+  "membershipId": "af1da540-fa40-11ed-a34d-f3e28a2263f8",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685133314976"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685133314976"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6475fcf8cd958b3c6704a17f"
+  },
+  "id": "a4014960-feef-11ed-aae2-b54ba9135661",
+  "user_id": "5a1fb660-feef-11ed-85c7-1b907a840487",
+  "amount": 100,
+  "membershipId": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685454072101"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685454072101"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6475fef4cd958b3c6704c12a"
+  },
+  "id": "d2ed3300-fef0-11ed-aae2-b54ba9135661",
+  "user_id": "4d2dd990-fef0-11ed-85c7-1b907a840487",
+  "amount": 40,
+  "membershipId": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685454580282"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685454580282"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647606d7cd958b3c67050ea6"
+  },
+  "id": "868a5a10-fef5-11ed-aae2-b54ba9135661",
+  "user_id": "2de3d4c0-fef2-11ed-8b49-05be5199edae",
+  "amount": 40,
+  "membershipId": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685456599610"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685456599610"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64760a4bcd958b3c67052ad9"
+  },
+  "id": "9543a910-fef7-11ed-aae2-b54ba9135661",
+  "user_id": "bb1b4590-fef6-11ed-b25a-83d5dbc2eadd",
+  "amount": 100,
+  "membershipId": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685457483309"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685457483309"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6476ff6980d765e5fbb0683f"
+  },
+  "id": "af869a70-ff89-11ed-9296-83f08aecc608",
+  "user_id": "97217c70-ff89-11ed-975a-3b8792eef348",
+  "amount": 100,
+  "membershipId": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685520233891"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685520233891"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64770c2b80d765e5fbb06e3f"
+  },
+  "id": "4a46fb20-ff91-11ed-9296-83f08aecc608",
+  "user_id": "97217c70-ff89-11ed-975a-3b8792eef348",
+  "amount": 40,
+  "membershipId": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685523499988"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685523499988"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d0fad8ce54abb0ac89f7a"
+  },
+  "id": "e82259f0-0326-11ee-9fbc-bfd272eb6b77",
+  "user_id": "bb1b4590-fef6-11ed-b25a-83d5dbc2eadd",
+  "amount": 50,
+  "membershipId": "51752e00-0313-11ee-9fbc-bfd272eb6b77",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685917613333"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685917613333"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647e1d36f212163c49300119"
+  },
+  "id": "9003afc0-03c7-11ee-a8a7-f15f43fa3b27",
+  "user_id": "97217c70-ff89-11ed-975a-3b8792eef348",
+  "amount": 50,
+  "membershipId": "51752e00-0313-11ee-9fbc-bfd272eb6b77",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685986614484"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685986614484"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647ef6471b2b8fd154167f47"
+  },
+  "id": "f1886bb0-0448-11ee-bca3-8d406871c4f2",
+  "user_id": "bfb04220-0448-11ee-a9de-1506b031ce8a",
+  "amount": 50,
+  "membershipId": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686042183170"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686042183170"
+    }
+  },
+  "__v": 0
+}]

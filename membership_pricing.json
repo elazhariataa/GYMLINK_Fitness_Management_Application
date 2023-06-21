@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "646e2174ade011b4f0a7c7a1"
+  },
+  "id": "af1f04d0-fa40-11ed-a34d-f3e28a2263f8",
+  "membership_plan_id": "af1da540-fa40-11ed-a34d-f3e28a2263f8",
+  "monthlyPrice": 40,
+  "quarterlyPrice": 100,
+  "annualPrice": 360,
+  "isDeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646e222aade011b4f0a7c7a5"
+  },
+  "id": "1b880270-fa41-11ed-a34d-f3e28a2263f8",
+  "membership_plan_id": "1b871810-fa41-11ed-a34d-f3e28a2263f8",
+  "monthlyPrice": 60,
+  "quarterlyPrice": 150,
+  "annualPrice": 540,
+  "isDeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64748cf88731d1e0b669b300"
+  },
+  "id": "4c21fbd0-fe14-11ed-8c54-551474cbf5fb",
+  "membership_plan_id": "4c199760-fe14-11ed-8c54-551474cbf5fb",
+  "monthlyPrice": 40,
+  "quarterlyPrice": 100,
+  "annualPrice": 400,
+  "isDeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64748e2c8731d1e0b669b30f"
+  },
+  "id": "034698c0-fe15-11ed-8c54-551474cbf5fb",
+  "membership_plan_id": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "monthlyPrice": 40,
+  "quarterlyPrice": 100,
+  "annualPrice": 400,
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647cee588ce54abb0ac89e05"
+  },
+  "id": "0a049b00-0313-11ee-9fbc-bfd272eb6b77",
+  "membership_plan_id": "09fb7340-0313-11ee-9fbc-bfd272eb6b77",
+  "monthlyPrice": 60,
+  "quarterlyPrice": 160,
+  "annualPrice": 650,
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647ceed08ce54abb0ac89e0d"
+  },
+  "id": "5175ca40-0313-11ee-9fbc-bfd272eb6b77",
+  "membership_plan_id": "51752e00-0313-11ee-9fbc-bfd272eb6b77",
+  "monthlyPrice": 80,
+  "quarterlyPrice": 140,
+  "annualPrice": 900,
+  "isDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647cef7c8ce54abb0ac89e15"
+  },
+  "id": "b84a67d0-0313-11ee-9fbc-bfd272eb6b77",
+  "membership_plan_id": "b8497d70-0313-11ee-9fbc-bfd272eb6b77",
+  "monthlyPrice": 20,
+  "quarterlyPrice": 50,
+  "annualPrice": 220,
+  "isDeleted": false,
+  "__v": 0
+}]

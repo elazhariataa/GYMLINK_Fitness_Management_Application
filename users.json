@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "646c08d56b19128ebabb9756"
+  },
+  "id": "d5b35790-f900-11ed-9c06-698b4e5fdd01",
+  "userName": "elazhariataa",
+  "email": "ataaelazhari@gmail.com",
+  "password": "$2b$10$I8XLS19sKQiriHhlyeHEWOlyIL67W1tgQNa5mObELhOt4X6DAYEWq",
+  "role": "Admin",
+  "__v": 0,
+  "address": "adress adres",
+  "firstName": "Ataa",
+  "lastName": "EL Azhari",
+  "phone": 632549871,
+  "image": "http://localhost:5000/public/6e15c9c1-b256-4792-af40-b181e563d8a5-pexels-binyamin-mellish-116079.jpg"
+},{
+  "_id": {
+    "$oid": "647608dd12cfb750413ad2b7"
+  },
+  "id": "bb1b4590-fef6-11ed-b25a-83d5dbc2eadd",
+  "userName": "ahmadiahmad",
+  "email": "ahmadi@gmail.com",
+  "password": "$2b$10$HOyKnktws0BniM4chTivm.LuBfhEwZuUnfZdM5.eU.1Xe//MTpIay",
+  "role": "Trainee",
+  "isPaid": true,
+  "__v": 0,
+  "membershipId": "51752e00-0313-11ee-9fbc-bfd272eb6b77",
+  "address": "61 Bis, rue Mohamed Slaoui Fès",
+  "firstName": "Ahmad",
+  "lastName": "Ahmadi",
+  "phone": 632541789,
+  "image": "http://localhost:5000/public/36ab4923-d632-4657-95f9-90ca75accb29-6.jpg"
+},{
+  "_id": {
+    "$oid": "64760abc5848c9180e61adb8"
+  },
+  "id": "d8f649b0-fef7-11ed-b167-5ffd01219359",
+  "userName": "ayoubiayoub",
+  "email": "ayoubi@gmail.com",
+  "password": "$2b$10$F3V.Z9RdNGBYs5R2b41Ltez64mq/YiC9GbHgGBm9idTjdymwzh6M.",
+  "role": "Trainee",
+  "isPaid": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64763faf5848c9180e6363c7"
+  },
+  "id": "67e44fe0-ff17-11ed-b167-5ffd01219359",
+  "userName": "karimikarim",
+  "email": "karimi@gmail.com",
+  "password": "$2b$10$QF.Il0yD/5MWDuRIUE/pbuMcSQf7mC4XLkdOxMi85pGHBFNl8t2lu",
+  "role": "Trainee",
+  "isPaid": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6476ff40b6b78f958f4c0d46"
+  },
+  "id": "97217c70-ff89-11ed-975a-3b8792eef348",
+  "userName": "akramiakram",
+  "email": "akrami@gmail.com",
+  "password": "$2b$10$7ry8r61LVdl5F1iY7OBgL.JhFx/gteUtsREAJC5ClMvxzymbz6cwe",
+  "role": "Trainee",
+  "isPaid": true,
+  "__v": 0,
+  "membershipId": "51752e00-0313-11ee-9fbc-bfd272eb6b77",
+  "image": "http://localhost:5000/public/fe9b8fd4-5fa0-4b94-9117-772d8c38afc2-pexels-cesar-galeã£o-3289711.jpg"
+},{
+  "_id": {
+    "$oid": "647d1b619e86ec8a0b6f0412"
+  },
+  "id": "e1c46420-032d-11ee-90e0-f340a7a634ca",
+  "userName": "kamalikamal",
+  "firstName": "kamal",
+  "lastName": "kamali",
+  "email": "kamali@gmail.com",
+  "password": "$2b$10$tuxHZO1XoEio0M8S1qhUn.vfexsVp9biAHuengbEXF1fdPQx9eT5G",
+  "phone": 632154789,
+  "role": "Coash",
+  "__v": 0
+}]

@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "64748e2c8731d1e0b669b30d"
+  },
+  "id": "0345ae60-fe15-11ed-8c54-551474cbf5fb",
+  "name": "Premium Membership",
+  "offers": [
+    "Unlimited access to gym facilities during open hours",
+    "Unlimited access to group fitness classes",
+    "Access to cardio and strength equipment",
+    "1 free personal training session per month"
+  ],
+  "classesNumber": 6,
+  "personalClassesNumber": 1,
+  "isDeleted": false,
+  "image": "http://localhost:5001/public/99fca93b-56cd-4973-a1e2-24a9ab07a98a-premium.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647cee588ce54abb0ac89e03"
+  },
+  "id": "09fb7340-0313-11ee-9fbc-bfd272eb6b77",
+  "name": "Silver Membership",
+  "offers": [
+    "Access to gym facilities during open hours",
+    "Access to specific group fitness classes with a maximum of 4 classes per week",
+    "Access to cardio and strength equipment",
+    "1 free personal training session per month"
+  ],
+  "classesNumber": 4,
+  "personalClassesNumber": 1,
+  "isDeleted": false,
+  "image": "http://localhost:5001/public/33e8f12f-c7fa-47fb-bf2d-0c6483873cd8-silver-medal.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647ceed08ce54abb0ac89e0b"
+  },
+  "id": "51752e00-0313-11ee-9fbc-bfd272eb6b77",
+  "name": "Gold Membership",
+  "offers": [
+    "Unlimited access to gym facilities during open hours",
+    "Unlimited access to all group fitness classes",
+    "Access to cardio and strength equipment",
+    "2 free personal training sessions per month"
+  ],
+  "classesNumber": 7,
+  "personalClassesNumber": 2,
+  "isDeleted": false,
+  "image": "http://localhost:5001/public/5e5cb14d-75e4-4cf9-9d9a-1db7347a1a33-golden-medal.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647cef7c8ce54abb0ac89e13"
+  },
+  "id": "b8497d70-0313-11ee-9fbc-bfd272eb6b77",
+  "name": "Basic Membership",
+  "offers": [
+    "Access to gym facilities during open hours",
+    "Access to group fitness classes (up to 3 per week)",
+    "Access to cardio and strength equipment",
+    "No personal training sessions included"
+  ],
+  "classesNumber": 3,
+  "personalClassesNumber": 0,
+  "isDeleted": false,
+  "image": "http://localhost:5001/public/9b88b5a7-37ef-4b7e-82da-c2d093d7562f-basic.png",
+  "__v": 0
+}]
